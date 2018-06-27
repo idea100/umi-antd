@@ -1,0 +1,25 @@
+{
+  "name": "umi-antd",
+  "version": "1.0.0",
+  "description": "umi antd",
+  "main": "index.js",
+  "scripts": {
+    "start": "umi dev",
+    "build": "umi build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idea100/umi-antd.git"
+  },
+  "keywords": [
+    "umi",
+    "antd",
+    "react"
+  ],
+  "author": "idea100",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idea100/umi-antd/issues"
+  },
+  "homepage": "https://github.com/idea100/umi-antd#readme"
+}
